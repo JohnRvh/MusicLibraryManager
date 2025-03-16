@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or further information, please reach out via [GitHub Issues](https://github.com/JohnRvh/MusicLibraryManager/issues) or email at [johnrvh@example.com](mailto:johnrvh@example.com).
+For any inquiries or further information, please reach out via [GitHub Issues](https://github.com/JohnRvh/MusicLibraryManager/issues).
 
 ## Keywords
 
